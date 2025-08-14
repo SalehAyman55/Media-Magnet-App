@@ -20,6 +20,22 @@ Built with `tkinter` and powered by `yt-dlp`, it supports single and batch downl
 - 🔄 **Retry Fetch Qualities** – If first attempt fails.  
 
 ---
+🛠️ Over the past months, I worked on debugging 🐞 and improving the app until it became a smooth, multi-platform media downloader supporting a wide range of sites, including:
+🎥 YouTube – Videos, Channels, Playlists, Live Streams, Subtitles
+ 🎬 Vimeo
+ 📺 Dailymotion
+ 🎮 Twitch – Videos, Clips, Live Streams
+ 🎵 TikTok
+ 📘 Facebook – Videos, Live Streams
+ 📸 Instagram – Videos, Stories, Reels
+ 🐦 Twitter (X) – Videos, Live Streams
+ 👽 Reddit – Subreddit Videos
+ 📌 Pinterest
+ 💼 LinkedIn
+ 👻 Snapchat
+ 🌍 VK
+
+---
 
 ## 🖥 System Requirements
 - **OS**: Windows, macOS, or Linux  
