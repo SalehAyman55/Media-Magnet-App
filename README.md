@@ -1,7 +1,7 @@
-# 🎥 YouTube Video Downloader
-# 🎥 This App Has Been Cooded By AI Models With (Vibe Coding) Then Editied By Me (العبد الفقير الي الله)
+# 🎥 Media Magnet
+# 🎥 This App Has Been Coded By AI Models With (Vibe Coding) Then Edited By Me (العبد الفقير الي الله)
 ## 📌 Description
-**YouTube Video Downloader** is an **open-source GUI application** that allows users to easily download videos and playlists from **YouTube**.  
+**Media Magnet** is an **open-source GUI application** that allows users to easily download videos and playlists from **YouTube**.  
 Built with `tkinter` and powered by `yt-dlp`, it supports single and batch downloads, video quality selection, MP3 conversion, and subtitle downloading.
 
 ⚠ **Note:** This program was developed a while ago. Some features like pause/resume may not work perfectly, but downloading from YouTube works reliably.
