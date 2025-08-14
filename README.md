@@ -21,7 +21,7 @@ Built with `tkinter` and powered by `yt-dlp`, it supports single and batch downl
 
 ---
 🛠️ Over the past months, I worked on debugging 🐞 and improving the app until it became a smooth, multi-platform media downloader supporting a wide range of sites, including:
-🎥 YouTube – Videos, Channels, Playlists, Live Streams, Subtitles
+- 🎥 YouTube – Videos, Channels, Playlists, Live Streams, Subtitles
 - 🎬 Vimeo
 - 📺 Dailymotion
 - 🎮 Twitch – Videos, Clips, Live Streams
