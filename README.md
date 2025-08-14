@@ -1,5 +1,6 @@
 # 🎥 Media Magnet
-# 🎥 This App Has Been Coded By AI Models With (Vibe Coding) Then Edited By Me (العبد الفقير الي الله)
+# 🎥 This App Has Been Coded With The Help Of AI Tools Like 🤖 ChatGPT, 🚀 Grok, And 💡 DeepSeek (Vibe Coding) Then Edited By Me (العبد الفقير الي الله) ⚡ While AI helped with writing MOST of the code, all the ideas, download methods, and features were mine.
+
 ## 📌 Description
 **Media Magnet** is an **open-source GUI application** that allows users to easily download videos and playlists from **YouTube**.  
 Built with `tkinter` and powered by `yt-dlp`, it supports single and batch downloads, video quality selection, MP3 conversion, and subtitle downloading.
